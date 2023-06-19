@@ -1,0 +1,9 @@
+1. Numpy
+2. Pandas
+3. Matplotlib
+4. Os
+5. Seaborn
+6. SCikit-learn
+7. XGBoost
+8. Pickle
+9. Warnings
